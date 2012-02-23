@@ -1,0 +1,4 @@
+key name: PassGeneratorKeystore
+alias: passgenerator
+password key:1ouf24
+

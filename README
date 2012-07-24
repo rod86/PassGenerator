@@ -14,4 +14,4 @@ A simple password generator for Android.
   - Numbers
 
 * You can define the length of the password.
-* Copy password to clipboard.
+* Copy generated password to clipboard.

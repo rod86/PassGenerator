@@ -1,3 +1,18 @@
-PassGenerator
 
-A password generator for Android.
+*******************************************************************************
+  PassGenerator
+*******************************************************************************
+
+A simple password generator for Android.
+
+===============================================================================
+ FEATURES
+===============================================================================
+
+* Password can contain:
+  - Letters (uppercase or lowercase)
+  - Symbols
+  - Numbers
+
+* You can define the length of the password.
+* You can enable/disable the

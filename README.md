@@ -1,5 +1,5 @@
 PassGenerator
-============
+=============
 
 A simple password generator for Android.
 
